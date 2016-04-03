@@ -52,6 +52,7 @@
   "dependencies": {
     "immutable": "^3.7.6",
     "react": "^0.14.8",
+    "react-addons-test-utils": "^0.14.8",
     "react-dom": "^0.14.8"
   }
 }
